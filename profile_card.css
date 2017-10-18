@@ -16,7 +16,8 @@
     padding: 16px;
     box-sizing: border-box;
     align-items: center;
-    background-image: url("assets/circuit_pattern.png");
+    background-image: url("assets/pattern.png");
+    background-size: contain;
     background-blend-mode: multiply; }
     .profile-card .profile-general .profile-image {
       width: 93px;
